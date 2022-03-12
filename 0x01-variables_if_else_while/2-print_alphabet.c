@@ -3,12 +3,14 @@
 /**
  * main - alphabet in lowercase, followed by a new line.
  *
+ * Description: print the letters of the alphabet
+ *
  * Always return(0)
  */
 
-int main(void)
+void main(void)
 {
-	char ch = 'a';
+	int ch = 'a';
 
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
