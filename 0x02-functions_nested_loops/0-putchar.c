@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * main - print out maincar by char.
- * Description: uses the main head file
- * that containss the fuction _putchar
- * Return 0.
+ * main - entry point
+ *
+ * Return: Always 0 (success)
  */
 
 int main(void)
